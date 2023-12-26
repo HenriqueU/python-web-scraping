@@ -112,4 +112,4 @@ data = {
 df_t1_pb_worlds2023 = pd.DataFrame(data)
 print(df_t1_pb_worlds2023)
 
-df_t1_pb_worlds2023.to_excel('C:/Users\henri\OneDrive\Área de Trabalho\Excel\SKT T1 Drafts - Worlds 2023.xlsx')
+df_t1_pb_worlds2023.to_excel('SKT T1 Drafts - Worlds 2023.xlsx')
